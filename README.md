@@ -1,7 +1,7 @@
 # Oraculum 
 Projeto do 6º Semestre na Fatec São José dos Campos em parceria com a UOL para desenvolvimento de um sistema de previsão de indisponibilidade de sites.
 
-## Equipe
+## 👨‍💻 Equipe
 <b>Scrum Master/Dev</b> - Thiago Fernandes Canonici <br>
 <b>Product Owner/Dev</b> - Rodrigo Félix da Silva <br>
 <b>Dev</b> - Arthur Akiyoshi Zukeram <br>
@@ -19,7 +19,16 @@ Projeto do 6º Semestre na Fatec São José dos Campos em parceria com a UOL par
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-## Repositórios do Projeto
+## 💡 Prototipação 
+- [Design Think](https://www.figma.com/file/f2YjbwsDuiSOF9piDrFKC4/Design-Think?node-id=0%3A1)
 
-## Backlog
+## 📂 Repositórios do Projeto
+- [Repositório de Cadastro Front-end](https://github.com/Oraculum-Fatec/sistema-cadastro) - Interface para cadastro de usuários para testar a aplicação de monitoramento e previsão de indisponibilidade. 
+- [Repositório de Cadastro Back-end](https://github.com/Oraculum-Fatec/sistema-cadastro-backend) - Sistema para cadastro de usuários (Back-end) para testar a aplicação de monitoramento e previsão de indisponibilidade. 
+
+
+## 📝 Backlog
+
+## 📖 Documentação
+
 
