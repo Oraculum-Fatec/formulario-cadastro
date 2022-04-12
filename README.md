@@ -1,5 +1,11 @@
 # Oraculum 
-Projeto do 6º Semestre na Fatec São José dos Campos em parceria com a UOL para desenvolvimento de um sistema de previsão de indisponibilidade de sites.
+Projeto do 6º Semestre na Fatec São José dos Campos em parceria com a UOL.
+
+## ❓ Desafio
+Mitigar o risco de indisponibilidade dos produtos UOL.
+
+## ✅ Solução
+Sistema utilizando ferramentas como Prometheus e Grafana para o monitoramento dos sites junto com IA para a previsão de indisponibilidade. Utilizando para teste um formulário de cadastro e consulta de usuários.
 
 ## 👨‍💻 Equipe
 <b>Scrum Master/Dev</b> - Thiago Fernandes Canonici <br>
@@ -28,6 +34,7 @@ Projeto do 6º Semestre na Fatec São José dos Campos em parceria com a UOL par
 
 
 ## 📝 Backlog
+<img src="https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/backlog-sprints.png" width="400">
 
 ## 📖 Documentação
 
