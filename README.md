@@ -34,7 +34,7 @@ Sistema utilizando ferramentas como Prometheus e Grafana para o monitoramento do
 
 
 ## 📝 Backlog
-<img src="https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/backlog-sprints.png" width="400">
+<img src="https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/backlog-sprints2.png" width="400">
 
 ## 📖 Documentação
 - [Design Think](https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/Design%20Thinking.pdf)
