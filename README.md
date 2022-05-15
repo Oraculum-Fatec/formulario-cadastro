@@ -31,6 +31,7 @@ Sistema utilizando ferramentas como Prometheus e Grafana para o monitoramento do
 ## 📂 Repositórios do Projeto
 - [Repositório de Cadastro Front-end](https://github.com/Oraculum-Fatec/sistema-cadastro) - Interface para cadastro de usuários para testar a aplicação de monitoramento e previsão de indisponibilidade. 
 - [Repositório de Cadastro Back-end](https://github.com/Oraculum-Fatec/sistema-cadastro-backend) - Sistema para cadastro de usuários (Back-end) para testar a aplicação de monitoramento e previsão de indisponibilidade. 
+- [Api de previsão de indisponibilidade](https://github.com/Oraculum-Fatec/api-previsao-de-indisponibilidade-sites) - Inteligência Artificial para prever a indisponibilidade do serviço.
 
 
 ## 📝 Backlog
@@ -41,5 +42,7 @@ Sistema utilizando ferramentas como Prometheus e Grafana para o monitoramento do
 - [Gerenciamento de Cronograma](https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/Gerenciamento%20de%20Cronograma.pdf)
 - [Gerenciamento de Escopo](https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/Gerenciamento%20de%20Escopo.pdf) 
 - [TAP](https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/TAP.pdf) 
+- [Peti](https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/peti.pdf)
+- [Errata do Cronograma](https://github.com/Oraculum-Fatec/oraculum-doc/blob/main/Docs/ERRATA%20DO%20GERENCIAMENTO%20DE%20CRONOGRAMA_BurnDown_Sprint2.pdf)
 
 
