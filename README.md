@@ -28,6 +28,10 @@ Sistema utilizando ferramentas como Prometheus e Grafana para o monitoramento do
 ## 💡 Prototipação 
 - [Design Think](https://www.figma.com/file/f2YjbwsDuiSOF9piDrFKC4/Design-Think?node-id=0%3A1)
 
+## 💡 Inteligência artificial 
+- [Pipeline](https://www.figma.com/file/9zHFIvesigbCKuk6rbbEuX/Pipeline?node-id=0%3A1)
+- [Código](https://github.com/Oraculum-Fatec/api-previsao-de-indisponibilidade-sites)
+
 ## 📂 Repositórios do Projeto
 - [Repositório de Cadastro Front-end](https://github.com/Oraculum-Fatec/sistema-cadastro) - Interface para cadastro de usuários para testar a aplicação de monitoramento e previsão de indisponibilidade. 
 - [Repositório de Cadastro Back-end](https://github.com/Oraculum-Fatec/sistema-cadastro-backend) - Sistema para cadastro de usuários (Back-end) para testar a aplicação de monitoramento e previsão de indisponibilidade. 
